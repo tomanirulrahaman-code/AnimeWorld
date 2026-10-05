@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "anime-world-dun.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "anime-world-dun.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
