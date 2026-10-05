@@ -1,0 +1,21 @@
+{
+  "appId": "com.animeworld.app",
+  "appName": "AnimeWorld",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#f8f9fa",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#f8f9fa"
+    }
+  }
+}

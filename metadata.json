@@ -1,0 +1,6 @@
+{
+  "name": "AnimeWorld",
+  "description": "Premium Android-first anime streaming app featuring Hindi Dub and Sub titles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
